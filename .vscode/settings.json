@@ -1,0 +1,10 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.profiles.windows": {
+        "Conda": {
+            "path": "C:\\Users\\<YourUsername>\\Miniconda3\\Scripts\\activate",
+            "args": ["base"],
+            "icon": "terminal-bash"
+        }
+    },
+}
